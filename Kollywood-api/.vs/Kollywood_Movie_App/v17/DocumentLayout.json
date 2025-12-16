@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|c:\\users\\ashok\\source\\repos\\kollywood_movie_app\\kollywood-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|c:\\users\\ashok\\source\\repos\\kollywood_movie_app\\kollywood-api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|c:\\users\\ashok\\source\\repos\\kollywood_movie_app\\kollywood-api\\services\\moviematch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|solutionrelative:services\\moviematch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|c:\\users\\ashok\\source\\repos\\kollywood_movie_app\\kollywood-api\\repositories\\imovierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|solutionrelative:repositories\\imovierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|c:\\users\\ashok\\source\\repos\\kollywood_movie_app\\kollywood-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|c:\\users\\ashok\\source\\repos\\kollywood_movie_app\\kollywood-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|c:\\users\\ashok\\source\\repos\\kollywood_movie_app\\kollywood-api\\repositories\\movierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|solutionrelative:repositories\\movierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|c:\\users\\ashok\\source\\repos\\kollywood_movie_app\\kollywood-api\\kollywood_movie_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|solutionrelative:kollywood_movie_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|c:\\users\\ashok\\source\\repos\\kollywood_movie_app\\kollywood-api\\models\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|solutionrelative:models\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|c:\\users\\ashok\\source\\repos\\kollywood_movie_app\\kollywood-api\\services\\formatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|solutionrelative:services\\formatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|c:\\users\\ashok\\source\\repos\\kollywood_movie_app\\kollywood-api\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|c:\\users\\ashok\\source\\repos\\kollywood_movie_app\\kollywood-api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|c:\\users\\ashok\\source\\repos\\kollywood_movie_app\\kollywood-api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|c:\\users\\ashok\\source\\repos\\kollywood_movie_app\\kollywood-api\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FD0F7F-A64D-43DC-B402-9D7FFA0E4C80}|Kollywood_Movie_App.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T07:29:52.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovieRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Repositories\\IMovieRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\IMovieRepo.cs",
+              "ToolTip": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Repositories\\IMovieRepo.cs",
+              "RelativeToolTip": "Repositories\\IMovieRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T06:39:21.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Moviematch.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Services\\Moviematch.cs",
+              "RelativeDocumentMoniker": "Services\\Moviematch.cs",
+              "ToolTip": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Services\\Moviematch.cs",
+              "RelativeToolTip": "Services\\Moviematch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T06:07:41.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kollywood_Movie_App.csproj",
+              "DocumentMoniker": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Kollywood_Movie_App.csproj",
+              "RelativeDocumentMoniker": "Kollywood_Movie_App.csproj",
+              "ToolTip": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Kollywood_Movie_App.csproj",
+              "RelativeToolTip": "Kollywood_Movie_App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T13:45:13.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwDYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:49:29.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:56:14.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Repositories\\MovieRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\MovieRepo.cs",
+              "ToolTip": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Repositories\\MovieRepo.cs",
+              "RelativeToolTip": "Repositories\\MovieRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:44:04.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T11:18:23.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-15T12:31:24.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:30:57.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormatService.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Services\\FormatService.cs",
+              "RelativeDocumentMoniker": "Services\\FormatService.cs",
+              "ToolTip": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Services\\FormatService.cs",
+              "RelativeToolTip": "Services\\FormatService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T13:50:17.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Models\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "Models\\MovieDTO.cs",
+              "ToolTip": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Models\\MovieDTO.cs",
+              "RelativeToolTip": "Models\\MovieDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T13:45:56.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:40:12.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:03:39.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
