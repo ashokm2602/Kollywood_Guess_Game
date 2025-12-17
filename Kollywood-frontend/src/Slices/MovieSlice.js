@@ -1,44 +1,38 @@
-import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
-import {GetMatches,GetMovies} from "../Services/MovieService";
-
-
-export const FetchMovies = createAsyncThunk("fetch/movies",async(id)=>{
-    const movies = await GetMovies(id);
-    console.log("the response is",movies);
-    return movies;
+import {createSlice,createAsyncThunk} from "@reduxjs/toolkit";
+import {GetMovie,GetMatches} from "../Services/MovieService";
+import { act } from "react";
+export const FetchMovie = createAsyncThunk("fetch/movies",async(id)=>{
+    var movie = await GetMovie(id);
+    console.log(`The movie is, ${movie.title}.`);
+    return movie;
 })
 
-export const FetchMatches = createAsyncThunk("fetch/matches",async(inp)=>{
-    const response = await GetMatches(inp);
-    console.log("the response is",response[0]);
-    return response;
-})
+export const FetchMatches = createAsyncThunk("fetch/matches",async(str)=>{
+    var matches = await GetMatches(str);
+    console.log(`The matches are, `);
+    console.log(matches);
+    return matches;
 
+})
 
 const MovieSlice = createSlice({
-    name:"movies",
+    name : "movie",
     initialState:{
-        loading : false,
         error:null,
-        movie : null,
-        matches : []
+        loading:false,
+        movie:null,
+        matches: []
     },
-    reducers: {},
-    extraReducers: (builder)=>{
+    reducers:{},
+    extraReducers:(builder)=>{
         builder
-            .addCase(FetchMovies.fulfilled,(state,action)=>{
-                state.loading = false;
-                  console.log("✅ Reducer received:", action.payload);
-
+            .addCase(FetchMovie.fulfilled,(state,action)=>{
+                state.loading=false;
                 state.movie = action.payload;
-
             })
-        builder
             .addCase(FetchMatches.fulfilled,(state,action)=>{
-                state.loading  = false;
-                  console.log("✅ Reducer received:", action.payload);
-
-                state.matches = action.payload;
+                state.loading=false;
+                state.matches=action.payload;
             })
     }
 })

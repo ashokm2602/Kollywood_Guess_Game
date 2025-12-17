@@ -8040,11 +8040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Kollywood_Movie_App.csproj",
+      "projectUniqueName": "C:\\Users\\ashok\\source\\repos\\Kollywood_Game\\Kollywood-api\\Kollywood_Movie_App.csproj",
       "projectName": "Kollywood_Movie_App",
-      "projectPath": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\Kollywood_Movie_App.csproj",
+      "projectPath": "C:\\Users\\ashok\\source\\repos\\Kollywood_Game\\Kollywood-api\\Kollywood_Movie_App.csproj",
       "packagesPath": "C:\\Users\\ashok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ashok\\source\\repos\\Kollywood_Movie_App\\Kollywood-api\\obj\\",
+      "outputPath": "C:\\Users\\ashok\\source\\repos\\Kollywood_Game\\Kollywood-api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
